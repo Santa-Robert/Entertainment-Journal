@@ -156,6 +156,9 @@
   <ItemGroup>
     <ClCompile Include="Journal.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="JSON" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
